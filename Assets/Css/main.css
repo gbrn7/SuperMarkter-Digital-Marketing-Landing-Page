@@ -332,6 +332,10 @@ body::-webkit-scrollbar {
   color: white;
   font-size: 14px;
 }
+.blog .blog-wrapper .row:nth-child(3) .column-1 .info .foot i {
+  color: white;
+  font-size: 14px;
+}
 .blog .blog-wrapper .row:nth-child(3) .column-1:hover img {
   transform: scale(1.2);
   transition: 0.3s all ease;
