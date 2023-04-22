@@ -81,7 +81,6 @@ $dot-space: 17px;
             h1{
                 font-weight: map-get($fonts-weights, bold );
                 font-size: 60px;
-                
                 @include media-breakpoint-down(sm){
                     font-size: 40px;
                 }
@@ -322,9 +321,7 @@ $dot-space: 17px;
                         background: rgb(255,196,15);
                         background: linear-gradient(90deg, rgba(255,196,15,1) 0%, rgba(255,132,178,1) 0%, rgba(255,15,16,1) 56%);
                     }
-                    .box-1:hover{
 
-                    }
                 }
             }
 
